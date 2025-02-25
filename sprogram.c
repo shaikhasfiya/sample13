@@ -1,5 +1,5 @@
 #include<stdio.h>
 void main()
 {
- printf("welcome to CS")
+ printf("welcome to CS");
 }
